@@ -1,0 +1,18 @@
+{
+  "name": "asyncstorage-mock-another",
+  "version": "1.0.0",
+  "description": "Another package to mock the AsyncStorage API from React Native",
+  "main": "index.js",
+  "author": "Andre Staltz",
+  "engines": {
+    "node": ">=6"
+  },
+  "license": "MIT",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "devDependencies": {
+    "asyncstorage-test": "^1.0.0",
+    "tape": "^4.6.3"
+  }
+}
